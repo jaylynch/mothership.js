@@ -1,0 +1,26 @@
+{
+  "name": "Mothership.js",
+  "version": "0.0.0",
+  "description": "TBA",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaylynch/mothership.js.git"
+  },
+  "keywords": [
+    "monitoring"
+  ],
+  "homepage": "http://github.com/jaylynch/mothership.js/",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://jaylynch.mit-license.org/"
+    }
+  ],
+  "author": {
+    "name": "Jay Lynch",
+    "url": "http://jaylyn.ch"
+  },
+  "dependencies": {
+    "lodash": "~2.2.1"
+  }
+}
